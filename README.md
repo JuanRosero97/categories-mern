@@ -18,7 +18,6 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:5000/Categories] to view it in the browser.
 
-The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### `npm run start-build-server`
@@ -31,6 +30,7 @@ Open [http://localhost:5000/Categories] to view it in the browser.
 
 Runs the app in the client mode for view the React Components without the server and database.
 Open [http://localhost:3000/Categories] to view it in the browser.
+The page will reload if you make edits.\
 
 ## About me
 
