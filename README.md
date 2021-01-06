@@ -1,3 +1,7 @@
+# Intro
+
+In this project I built a RESTful API in Node.js using express.js and MongoDB. I designed a database where CRUD can be made thanks to an identification _id, however, in future projects I plan to design the React component to include different products in each category and carry out an inventory of them. And finally I will include a Registration and Login page. In this case use Material Ui for the FRONT-END design.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
