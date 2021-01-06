@@ -2,6 +2,24 @@
 
 In this project I built a RESTful API in Node.js using express.js and MongoDB. I designed a database where CRUD can be made thanks to an identification _id, however, in future projects I plan to design the React component to include different products in each category and carry out an inventory of them. And finally I will include a Registration and Login page. In this case use Material Ui for the FRONT-END design.
 
+## Screenshots
+
+* Main page. Displays the categories added to the database.
+
+ ![Main Page](https://github.com/JuanRosero97/categories-mern/blob/master/screenshots/sc1.png)
+
+* When you click in delete category appears a Toast if the transaction was successful.
+  
+ ![Delete Toast](https://github.com/JuanRosero97/categories-mern/blob/master/screenshots/sc2.png)
+
+* When you click into the edit category, open "addCategory" page sending the category id by URL, and appears a Toast if the transaction was successful.
+  
+ ![Edit Toast](https://github.com/JuanRosero97/categories-mern/blob/master/screenshots/sc3.png)
+
+ * When you click on "añadir Categoria", it opens the "addCategory" page consisting of the text fields, a color selector and the "añadir" button. A toast appears if the transaction was successful.
+  
+ ![Add Category](https://github.com/JuanRosero97/categories-mern/blob/master/screenshots/sc4.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
