@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#### Example:  
+Clone this repository. You will need `node`, `npm` and `MongoDB Community Server` installed globally on your machine.  
+
+## Installation:
+
+`npm install`  
+
 ## Available Scripts
 
 In the project directory, you can run:
