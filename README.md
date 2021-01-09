@@ -25,7 +25,7 @@ In this project I built a RESTful API in Node.js using express.js and MongoDB. I
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 #### Example:  
-Clone this repository. You will need `node`, `npm` and `MongoDB Community Server` installed globally on your machine.  
+Clone this repository. You will need `MongoDB Community Server`, `Express.js`, `React` and `Node.js` installed globally on your machine.  
 
 ## Installation:
 
